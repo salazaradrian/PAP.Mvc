@@ -1,0 +1,10 @@
+# Carpetas configuracionales e índices de Visual Studio
+.vs/
+*.vsidx
+*.suo
+*.user
+
+# Compilación y binarios
+bin/
+obj/
+packages/
